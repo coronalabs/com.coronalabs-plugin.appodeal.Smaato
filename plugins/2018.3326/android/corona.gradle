@@ -4,3 +4,7 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
 }
+
+dependencies {
+    implementation("com.appodeal.ads.sdk.networks:smaato:2.10.1.6")
+}
